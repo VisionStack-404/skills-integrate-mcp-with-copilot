@@ -3,4 +3,4 @@ uvicorn
 celery 
 pytorch
 tensorflow
-
+RestAPI
