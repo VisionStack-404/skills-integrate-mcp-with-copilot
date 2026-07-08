@@ -57,6 +57,12 @@ activities = {
         "max_participants": 15,
         "participants": ["amelia@mergington.edu", "harper@mergington.edu"]
     },
+  "AI Club": {
+    "description": "Explore artificial intelligence, machine learning, and build innovative AI projects",
+    "schedule": "Fridays, 4:00 PM - 5:30 PM",
+    "max_participants": 15,
+    "participants": ["olivia@mergington.edu", "ethan@mergington.edu"]
+},
     "Drama Club": {
         "description": "Act, direct, and produce plays and performances",
         "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
