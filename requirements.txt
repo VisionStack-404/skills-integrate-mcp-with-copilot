@@ -4,3 +4,4 @@ celery
 pytorch
 tensorflow
 RestAPI
+redis
